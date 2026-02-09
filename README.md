@@ -6,7 +6,7 @@ Analyzed international news articles covering the Ukraine–Russia conflict to u
 **Research Question:** How does media bias influence the narratives around the Ukraine-Russia conflict, and who is winning the global information war?
 
 **Dataset:**  
-[Ukraine–Russia News Dataset](https://newsdata.io/datasets)
+[Ukraine–Russia News Dataset](ukraine.csv)
 
 ---
 
@@ -92,7 +92,7 @@ Coverage varies by geopolitical positioning:
 ---
 
 ## How to Access
-- [Dataset Link](https://newsdata.io/datasets)
+- [Dataset Link](ukraine.csv)
 - Analysis notebook: `https://github.com/sibdevmac/data-science-portfolio/blob/main/Ukraine-Russia%20news%20analysis.ipynb`
 
 ## Author
