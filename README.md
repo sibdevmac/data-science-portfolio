@@ -96,4 +96,4 @@ Coverage varies by geopolitical positioning:
 - Analysis notebook: `https://github.com/sibdevmac/data-science-portfolio/blob/main/Ukraine-Russia%20news%20analysis.ipynb`
 
 ## Author
-**sibdevmac** | 2026
+**Sibankar Saha** | 2026
